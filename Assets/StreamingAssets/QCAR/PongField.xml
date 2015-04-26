@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tracker" size="200.000000 174.167664" />
+    <ImageTarget name="The_Adventures_of_Tintin_-_07_-_The_Black_Island" size="200.000000 264.000000" />
+    <ImageTarget name="1072676-legend_zelda_majoras_mask" size="200.000000 200.000000" />
+    <ImageTarget name="pongfield" size="200.000000 282.903229" />
+  </Tracking>
+</QCARConfig>

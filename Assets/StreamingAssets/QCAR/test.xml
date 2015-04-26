@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stones" size="247.000000 172.899994" />
+    <ImageTarget name="stoneware-Coastal-Blue-Teapot" size="247.000000 172.899994" />
+    <ImageTarget name="download" size="200.000000 128.571426" />
+  </Tracking>
+</QCARConfig>
